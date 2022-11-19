@@ -1,0 +1,125 @@
+.top-container {
+  background-color: #E6E5A3;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+.bottom-container {
+  background-color: #E6E5A3;
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain {
+  height: 340px;
+}
+
+.name {
+  padding: 10px;
+  color: #557153;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+h1 {
+  line-height: 2;
+  color: #557153;
+  padding-top: 50px;
+  font-size: 3.75rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+h2 {
+  color: #557153;
+  font-size: 1.875rem;
+  font-weight: normal;
+}
+
+
+h3 {
+  color: #557153;
+}
+
+a {
+  color: #557153;
+}
+
+.footer-link {
+  padding: 20px;
+}
+
+hr {
+  border-color: lightgrey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+}
+
+.profile {
+  margin-top: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+
+.website {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.design {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+
+.btn {
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 24px;
+  background: #557153;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E6E5A3;
+  text-decoration: none;
+}
